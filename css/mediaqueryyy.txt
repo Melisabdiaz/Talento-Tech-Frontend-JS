@@ -1,2 +1,0 @@
-Media query es para disenio responsive
-
