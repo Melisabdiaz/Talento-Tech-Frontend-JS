@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body{
+  font-family: "Poppins", sans-serif;
+  background-color: beige;
+}
+
+.header{
+  background-color: white;
+}
+
+main{
+  width: 50%;
+  height: 80vh;
+}
+
+.titulo-home{
+  color: rgb(187, 86, 107);
+  font-size: 7rem;
+  text-align: center;
+}
+
+p{
+  font-size: 2rem;
+  cursor: pointer;
+
+}
+
+.footer{
+  background-color: white;
+}
+
+.footer p {
+  color: fuchsia
+}
